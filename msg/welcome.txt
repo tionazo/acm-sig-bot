@@ -17,4 +17,10 @@ Para unirte a cualquiera de ellos mencióname así:
 Si necesitas saber cuales son los grupos, lo puedes hacer con:
 @AcmSIGBOT /list
 
+También disponemos de una lista de correo para comunicaciones oficiales: 
+usal-members@listserv.acm.org
+
+Si necesitas recordarla: 
+@AcmSIGBOT /email
+
 Encantado de tenerte por aquí!
